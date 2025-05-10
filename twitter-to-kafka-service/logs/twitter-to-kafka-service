@@ -1,0 +1,166 @@
+2025-05-11 00:08:24 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 5912 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:08:24 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:08:25 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 1.087 seconds (process running for 2.068)
+2025-05-11 00:08:25 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:08:25 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:08:25 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:08:25 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:08:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 5921 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:08:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:08:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.789 seconds (process running for 1.588)
+2025-05-11 00:08:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:08:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:08:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:08:57 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:09:31 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 5930 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:09:31 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:09:32 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.824 seconds (process running for 1.617)
+2025-05-11 00:09:32 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:09:32 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:09:32 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:09:32 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:11:51 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 5968 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:11:51 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:11:51 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.858 seconds (process running for 2.049)
+2025-05-11 00:11:51 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:11:51 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:11:51 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:11:51 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:12:08 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 5988 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:12:08 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:12:08 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.92 seconds (process running for 2.006)
+2025-05-11 00:12:08 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:12:08 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:12:08 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:12:08 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:19:17 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 6107 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:19:17 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:19:18 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.795 seconds (process running for 1.605)
+2025-05-11 00:19:18 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:19:18 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:19:18 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:19:18 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:19:30 ERROR [pool-2-thread-1] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Error creating twetter status : 
+twitter4j.TwitterException: Unterminated object at character 20 of { created_at: dim. mai 11 00:19:30 +0200 2025,
+id: 5058418408925184587,
+text: Lorem3 Lorem1 Lorem1 Lohhyhhrem Lorem33 eeedd Kafka Lorem1 Lorem1 Lorem3 eeedd eeedd ,
+user: 8839513744632547944 }
+
+	at twitter4j.TwitterObjectFactory.createStatus(TwitterObjectFactory.java:57)
+	at com.microservices.twitter.to.kafka.service.runner.impl.mock.MockKafkaStreamRunner.lambda$simulateTwitterStream$0(MockKafkaStreamRunner.java:78)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: twitter4j.JSONException: Unterminated object at character 20 of { created_at: dim. mai 11 00:19:30 +0200 2025,
+id: 5058418408925184587,
+text: Lorem3 Lorem1 Lorem1 Lohhyhhrem Lorem33 eeedd Kafka Lorem1 Lorem1 Lorem3 eeedd eeedd ,
+user: 8839513744632547944 }
+
+	at twitter4j.JSONTokener.syntaxError(JSONTokener.java:486)
+	at twitter4j.JSONTokener.readObject(JSONTokener.java:427)
+	at twitter4j.JSONTokener.nextValue(JSONTokener.java:130)
+	at twitter4j.JSONObject.<init>(JSONObject.java:167)
+	at twitter4j.JSONObject.<init>(JSONObject.java:184)
+	at twitter4j.TwitterObjectFactory.createStatus(TwitterObjectFactory.java:55)
+	... 7 common frames omitted
+2025-05-11 00:22:00 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 6132 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:22:00 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:22:01 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.825 seconds (process running for 1.844)
+2025-05-11 00:22:01 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:22:01 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:22:01 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:22:01 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:23:25 ERROR [pool-2-thread-1] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Error creating tweeter status : 
+twitter4j.TwitterException: Unterminated object at character 20 of { created_at: dim. mai 11 00:22:01 +0200 2025,
+id: 5339047750831508547,
+text: elit Lorem33 Lorem2 ccvvvv Lohhyhhrem eeedd Spring zouhaier Lohhyhhrem hela Lohhyhhrem ,
+user: 8826878772909500386 }
+
+	at twitter4j.TwitterObjectFactory.createStatus(TwitterObjectFactory.java:57)
+	at com.microservices.twitter.to.kafka.service.runner.impl.mock.MockKafkaStreamRunner.lambda$simulateTwitterStream$0(MockKafkaStreamRunner.java:78)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: twitter4j.JSONException: Unterminated object at character 20 of { created_at: dim. mai 11 00:22:01 +0200 2025,
+id: 5339047750831508547,
+text: elit Lorem33 Lorem2 ccvvvv Lohhyhhrem eeedd Spring zouhaier Lohhyhhrem hela Lohhyhhrem ,
+user: 8826878772909500386 }
+
+	at twitter4j.JSONTokener.syntaxError(JSONTokener.java:486)
+	at twitter4j.JSONTokener.readObject(JSONTokener.java:427)
+	at twitter4j.JSONTokener.nextValue(JSONTokener.java:130)
+	at twitter4j.JSONObject.<init>(JSONObject.java:167)
+	at twitter4j.JSONObject.<init>(JSONObject.java:184)
+	at twitter4j.TwitterObjectFactory.createStatus(TwitterObjectFactory.java:55)
+	... 7 common frames omitted
+2025-05-11 00:25:35 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 6203 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:25:35 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:25:36 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.798 seconds (process running for 1.747)
+2025-05-11 00:25:36 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:25:36 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:25:36 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:25:36 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:28:13 ERROR [pool-2-thread-1] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Error creating tweeter status : 
+twitter4j.TwitterException: Expected ':' after id at character 211 of {"created_at":"dim. mai 11 00:25:36 +0200 2025", "id":"6595239591106622226", "text":"Lorem33 zouhaier Lorem1 Lorem33 Lorem33 eeedd hela ccvvvv Spring Lorem2 Lorem3 zouhaier oussama zouhaier elit ", "user":{"id"8275658693044509954"}}
+	at twitter4j.TwitterObjectFactory.createStatus(TwitterObjectFactory.java:57)
+	at com.microservices.twitter.to.kafka.service.runner.impl.mock.MockKafkaStreamRunner.lambda$simulateTwitterStream$0(MockKafkaStreamRunner.java:79)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: twitter4j.JSONException: Expected ':' after id at character 211 of {"created_at":"dim. mai 11 00:25:36 +0200 2025", "id":"6595239591106622226", "text":"Lorem33 zouhaier Lorem1 Lorem33 Lorem33 eeedd hela ccvvvv Spring Lorem2 Lorem3 zouhaier oussama zouhaier elit ", "user":{"id"8275658693044509954"}}
+	at twitter4j.JSONTokener.syntaxError(JSONTokener.java:486)
+	at twitter4j.JSONTokener.readObject(JSONTokener.java:412)
+	at twitter4j.JSONTokener.nextValue(JSONTokener.java:130)
+	at twitter4j.JSONTokener.readObject(JSONTokener.java:418)
+	at twitter4j.JSONTokener.nextValue(JSONTokener.java:130)
+	at twitter4j.JSONObject.<init>(JSONObject.java:167)
+	at twitter4j.JSONObject.<init>(JSONObject.java:184)
+	at twitter4j.TwitterObjectFactory.createStatus(TwitterObjectFactory.java:55)
+	... 7 common frames omitted
+2025-05-11 00:28:56 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 6270 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:28:56 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:28:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.805 seconds (process running for 1.643)
+2025-05-11 00:28:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:28:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:28:57 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:28:57 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:30:01 ERROR [pool-2-thread-1] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Error creating tweeter status : 
+twitter4j.TwitterException: Unexpected date format(dim. mai 11 00:28:57 +0200 2025) returned from twitter.com
+	at twitter4j.ParseUtil.getDate(ParseUtil.java:115)
+	at twitter4j.ParseUtil.getDate(ParseUtil.java:94)
+	at twitter4j.ParseUtil.getDate(ParseUtil.java:86)
+	at twitter4j.StatusJSONImpl.init(StatusJSONImpl.java:102)
+	at twitter4j.StatusJSONImpl.<init>(StatusJSONImpl.java:91)
+	at twitter4j.TwitterObjectFactory.createStatus(TwitterObjectFactory.java:55)
+	at com.microservices.twitter.to.kafka.service.runner.impl.mock.MockKafkaStreamRunner.lambda$simulateTwitterStream$0(MockKafkaStreamRunner.java:79)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.text.ParseException: Unparseable date: "dim. mai 11 00:28:57 +0200 2025"
+	at java.base/java.text.DateFormat.parse(DateFormat.java:399)
+	at twitter4j.ParseUtil.getDate(ParseUtil.java:113)
+	... 12 common frames omitted
+2025-05-11 00:30:05 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 6298 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-11 00:30:05 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-11 00:30:06 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.795 seconds (process running for 1.568)
+2025-05-11 00:30:06 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
+2025-05-11 00:30:06 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:30:06 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
+2025-05-11 00:30:06 INFO  [main] c.m.t.t.k.s.r.i.m.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2025-05-11 00:30:20 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text Lorem33 elit Lorem1 Lorem2 Lorem3 Lorem33 Kafka zouhaier Lorem3 hela Lorem1 Lorem3 
+2025-05-11 00:30:30 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text aaa Lorem33 zouhaier ccvvvv Lorem33 Lorem1 Kafka Lorem3 zouhaier zouhaier elit eeedd 
+2025-05-11 00:30:40 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text Lohhyhhrem Lorem2 Lorem2 ccvvvv oussama Lorem3 Lorem1 Spring Lohhyhhrem Lorem1 Lorem1 Lorem1 zouhaier Lohhyhhrem 
+2025-05-11 00:30:50 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text hela zouhaier Lorem3 Kafka ccvvvv hela 
+2025-05-11 00:31:00 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text Lorem3 Lorem33 oussama Lorem2 Lorem3 hela Lorem1 Lorem Microservices aaa zouhaier Lohhyhhrem hela aaa Lorem33 Lorem3 
