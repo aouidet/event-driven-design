@@ -1,6 +1,6 @@
 package com.microservices.twitter.to.kafka.service.runner.impl;
 
-import com.microservices.twitter.to.kafka.service.configuration.TwitterToKafkaServiceConfig;
+import com.microservices.demo.config.TwitterToKafkaServiceConfig;
 import com.microservices.twitter.to.kafka.service.listner.TwitterKafkaStatusListener;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
