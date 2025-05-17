@@ -38,4 +38,4 @@ Thumbs.db
 app-config-data/target
 twitter-to-kafka-service/logs
 twitter-to-kafka-service/target
-twitter-to-kafka-service/twitter-to-kafka-service/logs
+twitter-to-kafka-service/logs/*
