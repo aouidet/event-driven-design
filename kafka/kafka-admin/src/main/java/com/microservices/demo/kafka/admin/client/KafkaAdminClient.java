@@ -60,16 +60,14 @@ public class KafkaAdminClient {
     }
 
     public void checkSchemaRegistry() {
-        // create logic to simulate api schemaRegistry state
         int retryCount = 1;
         Integer maxRetry = retryConfigData.getMaxAttempts();
         int multiplier = retryConfigData.getMultiplier().intValue();
-        Long sleepTimes = retryConfigData.getSleepTimeMs();
-
-        while (getSchemaRegistryStatus().is2xxSuccessful()) {
+        Long sleepTimeMs = retryConfigData.getSleepTimeMs();
+        while (!getSchemaRegistryStatus().is2xxSuccessful()) {
             checkMaxRetry(retryCount++, maxRetry);
-            sleep(sleepTimes);
-            sleepTimes *= multiplier;
+            sleep(sleepTimeMs);
+            sleepTimeMs *= multiplier;
         }
     }
 
