@@ -1,9 +1,8 @@
 /Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/TwitterToKafkaApplication.java
-/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/configuration/TwitterToKafkaServiceConfig.java
 /Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/exception/TwitterToKafkaException.java
 /Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/listner/TwitterKafkaStatusListener.java
 /Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/runner/StreamRunner.java
+/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/runner/impl/MockKafkaStreamRunner.java
 /Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/runner/impl/TwitterKafkaStreamRunner.java
 /Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/runner/impl/TwitterV2KafkaStreamRunner.java
 /Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/runner/impl/TwitterV2StreamHelper.java
-/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/src/main/java/com/microservices/twitter/to/kafka/service/runner/impl/mock/MockKafkaStreamRunner.java

@@ -1,0 +1,4 @@
+com/microservices/demo/common/config/RetryConfig.class
+com/microservices/demo/common/config/RetryConfigData.class
+com/microservices/demo/common/config/KafkaProducerConfigData.class
+com/microservices/demo/common/config/KafkaConfigData.class

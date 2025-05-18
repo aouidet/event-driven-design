@@ -1,10 +1,2 @@
-2025-05-17 20:59:20 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 25569 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
-2025-05-17 20:59:20 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
-2025-05-17 20:59:21 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 1.589 seconds (process running for 3.421)
-2025-05-17 20:59:21 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - App Starting
-2025-05-17 20:59:21 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
-2025-05-17 20:59:21 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Hello Microservices
-2025-05-17 20:59:21 INFO  [main] c.m.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
-2025-05-17 20:59:21 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text ccvvvv Lorem2 hela oussama Lohhyhhrem aaa Java Lorem3 Lohhyhhrem oussama zouhaier zouhaier 
-2025-05-17 20:59:31 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text Lorem1 oussama eeedd ccvvvv Lorem1 Lorem2 Lorem3 eeedd Kafka zouhaier zouhaier Lorem3 Lorem33 oussama elit Lorem3 
-2025-05-17 20:59:41 INFO  [pool-2-thread-1] c.m.t.t.k.s.TwitterToKafkaApplication - Twitter status with text Lorem1 Lorem33 elit Lorem eeedd Lorem1 hela Spring Lorem ccvvvv eeedd Lohhyhhrem Lorem33 
+2025-05-18 19:11:38 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 21.0.1 with PID 47763 (/Users/aouidetoussama/workspace_event-driven-design/twitter-to-kafka-service/target/classes started by aouidetoussama in /Users/aouidetoussama/workspace_event-driven-design)
+2025-05-18 19:11:38 INFO  [main] c.m.t.t.k.s.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"

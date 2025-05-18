@@ -31,3 +31,14 @@ kafka-config:
     - twitter-topic
   num-of-partitions: 3
   replication-factor: 3
+
+kafka-producer-config:
+  key-serializer-class: org.apache.kafka.common.serialization.LongSerializer
+  value-serialize-class: io.confluent.kafka.serializers.KafkaAvroSerializer
+  compression-type: snappy
+  acks: all
+  batch-size: 16384
+  batch-size-boost-factory: 100
+  ligner-ms: 5
+  request-timout-ms: 60000
+  retry-count: 5
