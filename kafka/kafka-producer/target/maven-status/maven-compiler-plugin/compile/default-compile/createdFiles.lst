@@ -1,0 +1,3 @@
+com/microservices/demo/kafka/producer/config/KafkaProducerConfig.class
+com/microservices/demo/kafka/producer/service/KafkaProducerImpl.class
+com/microservices/demo/kafka/producer/service/KafkaProducer.class
