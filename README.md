@@ -4,7 +4,7 @@ To run docker compose file, and check if all containers are running using
 docker compose ps command.
 
 ```bash
-  docker-compose -f common.yml -f kafka_cluster.yml up
+  docker-compose docker compose -f common.yml -f kafka_cluster.yml -f services.yml up
   docker ps
 ```
 ## Documentation
