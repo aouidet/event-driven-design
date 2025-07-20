@@ -27,6 +27,9 @@
     <properties>
         <java.version>21</java.version>
         <spring-boot.version>3.4.5</spring-boot.version>
+        <spring-cloud-config-server.version>4.2.2</spring-cloud-config-server.version>
+        <spring-cloud-starter-config.version>4.2.2</spring-cloud-starter-config.version>
+        <spring-cloud-starter-bootstrap.version>4.2.0</spring-cloud-starter-bootstrap.version>
         <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
         <twitter4j-stream.version>4.0.7</twitter4j-stream.version>
         <lombok.version>1.18.36</lombok.version>
@@ -36,8 +39,7 @@
         <spring-kafka.version>3.2.6</spring-kafka.version>
         <spring-retry.version>2.0.11</spring-retry.version>
         <kafka-avro-serializer.version>7.8.0</kafka-avro-serializer.version>
-        <spring-cloud-config-server.version>4.3.0</spring-cloud-config-server.version>
-        <spring-cloud-starter-config.version>4.3.0</spring-cloud-starter-config.version>
+
     </properties>
 
     <repositories>
@@ -100,6 +102,12 @@
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-starter-config</artifactId>
                 <version>${spring-cloud-starter-config.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-bootstrap</artifactId>
+                <version>${spring-cloud-starter-bootstrap.version}</version>
             </dependency>
 
             <dependency>

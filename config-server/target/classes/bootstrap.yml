@@ -1,6 +1,11 @@
+server:
+  port: 8888
+
 spring:
   application:
     name: configserver
+  profiles:
+    active: twitter-to-kafka
   cloud:
     config:
       server:
