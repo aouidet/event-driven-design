@@ -5,12 +5,16 @@ spring:
   application:
     name: configserver
   profiles:
-    active: twitter-to-kafka
+    active: witter_to_kafka
   cloud:
     config:
       server:
         git:
-          uri: file:///Users/aouidetoussama/workspace_event-driven-design/config-server-repository
+#          uri: file:///Users/aouidetoussama/workspace_event-driven-design/config-server-repository
           clone-on-start: true
           default-label: main
+          uri: https://github.com/aouidet/event-driven-design.git
+          username: ${login_git}
+          passphrase: ${password_git}
+          search-paths: config-server-repository
       fail-fast: true
