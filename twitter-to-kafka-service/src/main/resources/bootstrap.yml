@@ -6,3 +6,5 @@ spring:
   cloud:
     config:
       name: config-client-twitter_to_kafka,config-client
+      username: ${token_config_server_user}
+      password: ${token_config_server_password}

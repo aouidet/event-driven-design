@@ -18,3 +18,7 @@ spring:
           passphrase: ${password_git}
           search-paths: config-server-repository
       fail-fast: true
+  security:
+    user:
+      name: spring_cloud_user
+      password: springCloud-Pwd!
