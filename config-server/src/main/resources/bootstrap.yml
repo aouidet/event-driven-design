@@ -5,7 +5,7 @@ spring:
   application:
     name: configserver
   profiles:
-    active: witter_to_kafka
+    active: twitter_to_kafka
   cloud:
     config:
       server:
@@ -21,4 +21,7 @@ spring:
   security:
     user:
       name: spring_cloud_user
-      password: springCloud-Pwd!
+      password: ENC(hsKn+zHejgN1h6d7Ba3h+ECOmn8JNv5h3v6Sygio2B6qs5u4bQdFrNiDU8Jp9nn6d+pcVO9KYSMDS9HwrERNCQ==)
+jasypt:
+  encryptor:
+    password: ${token_config_server_user}
