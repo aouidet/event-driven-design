@@ -1,4 +1,4 @@
-/Users/aouidetoussama/workspace_event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/KafkaConfigData.java
-/Users/aouidetoussama/workspace_event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/KafkaProducerConfigData.java
-/Users/aouidetoussama/workspace_event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/RetryConfig.java
-/Users/aouidetoussama/workspace_event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/RetryConfigData.java
+/Users/aouidet/codes/event_driven_design/event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/KafkaConfigData.java
+/Users/aouidet/codes/event_driven_design/event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/KafkaProducerConfigData.java
+/Users/aouidet/codes/event_driven_design/event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/RetryConfig.java
+/Users/aouidet/codes/event_driven_design/event-driven-design/common-config/src/main/java/com/microservices/demo/common/config/RetryConfigData.java

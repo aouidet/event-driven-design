@@ -29,22 +29,31 @@ public class MockKafkaStreamRunner implements StreamRunner {
     private final TwitterToKafkaServiceConfig twitterToKafkaServiceConfig;
 
     private static final Random RANDOM = new Random();
-    private static final String [] WORDS = new String [] {
-            "Lorem",
-            "Lorem1",
-            "Lorem2",
-            "Lorem3",
-            "Lorem3",
-            "Lorem33",
-            "oussama",
-            "elit",
-            "zouhaier",
-            "hela",
-            "aaa",
-            "eeedd",
-            "ccvvvv",
-            "Lohhyhhrem"
+    private static final String[] WORDS = {
+            "#Kafka",
+            "#SpringBoot",
+            "#Microservices",
+            "#EventDriven",
+            "#CloudNative",
+            "#Docker",
+            "#Kubernetes",
+            "#Java",
+            "#DevOps",
+            "#Streaming",
+            "#BigData",
+            "#GCP",
+            "#AWS",
+            "#Observability",
+            "#Scalability",
+            "#Resilience",
+            "Real-time",
+            "Data",
+            "Processing",
+            "Architecture",
+            "System",
+            "Design"
     };
+
 
     private static final String tweetAsRawJson = "{" +
             "\"created_at\":\"{0}\", " +

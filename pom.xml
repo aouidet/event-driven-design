@@ -35,7 +35,7 @@
         <lombok.version>1.18.36</lombok.version>
         <httpclient.version>4.5.14</httpclient.version>
         <json.version>20250107</json.version>
-        <avro.version>1.12.0</avro.version>
+        <avro.version>1.12.1</avro.version>
         <spring-kafka.version>3.2.6</spring-kafka.version>
         <spring-retry.version>2.0.11</spring-retry.version>
         <kafka-avro-serializer.version>7.8.0</kafka-avro-serializer.version>
