@@ -1,6 +1,6 @@
 package com.microservices.demo.kafka.admin.config;
 
-import com.microservices.demo.common.config.KafkaConfigData;
+import com.microservices.demo.config.KafkaConfigData;
 import org.apache.kafka.clients.CommonClientConfigs;
 import org.apache.kafka.clients.admin.AdminClient;
 import org.springframework.context.annotation.Bean;

@@ -1,11 +1,11 @@
 package com.microservices.demo.kafka.producer.config;
 
-import com.microservices.demo.common.config.KafkaProducerConfigData;
+import com.microservices.demo.config.KafkaProducerConfigData;
 import org.apache.avro.specific.SpecificRecordBase;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import com.microservices.demo.common.config.KafkaConfigData;
+import com.microservices.demo.config.KafkaConfigData;
 import org.springframework.kafka.core.DefaultKafkaProducerFactory;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.core.ProducerFactory;

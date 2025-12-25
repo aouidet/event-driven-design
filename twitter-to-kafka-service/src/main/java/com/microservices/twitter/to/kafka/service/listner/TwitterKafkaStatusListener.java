@@ -1,6 +1,6 @@
 package com.microservices.twitter.to.kafka.service.listner;
 
-import com.microservices.demo.common.config.KafkaConfigData;
+import com.microservices.demo.config.KafkaConfigData;
 import com.microservices.demo.kafka.producer.service.KafkaProducer;
 import com.microservices.kafka.avro.model.TwitterAvroModel;
 import com.microservices.twitter.to.kafka.service.TwitterToKafkaApplication;
